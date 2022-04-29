@@ -1,2 +1,2 @@
 # JavaTuts
-** Examples of Java program. **
+**Examples of Java program.**
