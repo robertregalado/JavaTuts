@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestClassY",
+            "request": "launch",
+            "mainClass": "TestClassY",
+            "projectName": "Chapter 7 - Composition and Inheritance_397f9f86"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestClassY1",
+            "request": "launch",
+            "mainClass": "TestClassY1",
+            "projectName": "Chapter 7 - Composition and Inheritance_397f9f86"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestClassY2",
+            "request": "launch",
+            "mainClass": "TestClassY2",
+            "projectName": "Chapter 7 - Composition and Inheritance_397f9f86"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestFriend",
+            "request": "launch",
+            "mainClass": "TestFriend",
+            "projectName": "Chapter 7 - Composition and Inheritance_397f9f86"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestName",
+            "request": "launch",
+            "mainClass": "TestName",
+            "projectName": "Chapter 7 - Composition and Inheritance_397f9f86"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestPerson",
+            "request": "launch",
+            "mainClass": "TestPerson",
+            "projectName": "Chapter 7 - Composition and Inheritance_397f9f86"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestPerson1",
+            "request": "launch",
+            "mainClass": "TestPerson1",
+            "projectName": "Chapter 7 - Composition and Inheritance_397f9f86"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestPoint",
+            "request": "launch",
+            "mainClass": "TestPoint",
+            "projectName": "Chapter 7 - Composition and Inheritance_397f9f86"
+        }
+    ]
+}
