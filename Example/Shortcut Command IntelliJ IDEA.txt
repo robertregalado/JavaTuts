@@ -1,0 +1,14 @@
+=================================
+Show Project
+=================================
+Windows: Alt + 1
+
+=================================
+Create new dependency in pom
+=================================
+Code > Generate
+Windows: Alt + Insert
+
+Ctrl + E: Navigate to last files
+
+Shift + Ctrl + F12: Hide other windows
